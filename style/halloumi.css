@@ -1,0 +1,38 @@
+* {
+	border: 1px solid grey;
+	font-family: Arial;
+	color: #555555;
+}
+
+h1, h2, h3 {
+	text-transform: uppercase;
+	color: orange;
+	font-weight: 100;
+	margin-top: 50px;
+}
+
+#mContainer {
+  margin: auto;
+	width: 50%;
+}
+
+p {
+	text-align: justfy;
+}
+
+header {
+	margin: 0 auto;
+}
+
+img {
+	width: 100%;
+	margin: 0 auto;
+}
+
+footer {
+	margin-top: 50px;
+	text-align: right;
+	background-color: #777777;
+	width: 100%;
+	color: white;
+}
